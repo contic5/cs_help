@@ -1,0 +1,53 @@
+body
+{
+  background-color:#90ee90;
+}
+div
+{
+  background-color: #33CCFF;
+
+}
+table,td
+{
+  background-color: #4388CC;
+  border: black solid 2px;
+}
+#topbar
+{
+  font-size: 48px;
+  text-align: center;
+  background-color:  #99FCCB;
+  border: black solid 5px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+#main
+{
+  display: flex;
+}
+#leftbar
+{
+  width: 15%;
+  border: black solid 5px;
+  background-color: #99FC9D;
+}
+#content
+{
+  width: 65%;
+  background-color: #4DDB89;
+  border-top: black solid 5px;
+  border-bottom: black solid 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+#rightbar
+{
+  width: 20%;
+  border: black solid 5px;
+  background-color: #99FC9D;
+}
+.majorarea
+{
+  font-size: 18px;
+  padding: 5px;
+}
